@@ -3,7 +3,7 @@ Discord music bot written in Python
 
 ## Dependencies
 [Discord.py](https://github.com/Rapptz/discord.py)  
-[Youtube-dl](https://github.com/ytdl-org/youtube-dl)
+[Youtube-dl](https://github.com/ytdl-org/youtube-dl)  
 [FFmpeg](https://github.com/FFmpeg/FFmpeg)  
 [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)  
 [Node.js](https://github.com/nodejs/node)
