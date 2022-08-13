@@ -103,6 +103,10 @@ async def stop(ctx):
 async def laoba(ctx):
     await ctx.message.channel.send("奥力给干了兄弟们!")
 
+@client.command()
+async def aoligei(ctx):
+    await ctx.invoke(play,url="https://www.youtube.com/watch?v=yw88g5QW6nw&t=3s")
+    
 async def check_playlist(ctx):
     if len(currPlaylist)>0:
         currSong=currPlaylist[0]
