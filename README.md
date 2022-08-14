@@ -21,6 +21,7 @@ Discord music bot written in Python
 - Run Netease Cloud Music API
 - Run laoba.py
 
-## Notice
+## Notice 
+Due to ffmpeg, the speed of music might be faster sometimes.  
 This Discord bot is designed for personal use, so it does not support multiply instances(guilds) at the same time.  
-Due to ffmpeg, the speed of music might be faster sometimes. 
+**Multiple Guild Version Working In Progress**
