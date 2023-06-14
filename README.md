@@ -22,6 +22,6 @@ Discord music bot written in Python
 - Run laoba.py
 
 ## Notice 
-Due to ffmpeg, the speed of music might be faster sometimes.  
-This Discord bot is designed for personal use, so it does not support multiply instances(guilds) at the same time.  
-**Multiple Guild Version Working In Progress**
+Due to ffmpeg, the play speed of music might be faster sometimes.  
+This Discord bot is designed for personal use, so it does not support multiply instances(channels) at the same time.  
+**Multiple Instance Version Working In Progress**
